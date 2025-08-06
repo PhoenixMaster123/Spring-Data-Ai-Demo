@@ -32,7 +32,7 @@ This is a **test project** demonstrating the integration of AI models using Spri
 ```bash
 spring.application.name=Spring-AI-Demo
 
-spring.ai.deepseek.api-key=sk-897258e7d65b4518bf8eea538f0dcd99
+spring.ai.deepseek.api-key=<your-openai-api-key>
 spring.ai.openai.api-key=<your-openai-api-key>
 ```
 
